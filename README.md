@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Pogiso Victor Baitsumedi  
+Meet me, 👋 I'm Pogiso Victor Baitsumedi  
 
 ### 💻 Aspiring Full-Stack Developer | South Africa  
 
