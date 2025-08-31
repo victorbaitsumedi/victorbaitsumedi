@@ -35,7 +35,7 @@ My goal is to become highly skilled  **full-stack developer** who builds applica
 
 Featured Projects
 
-I have three projects that are on my portfolio.
+I have three projects that are on my [portfolio](https://victor-baitsumedi-portfolio.netlify.app/)
 
 Stay tuned , I will be pinning more projects soon.
 
