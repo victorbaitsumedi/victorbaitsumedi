@@ -45,7 +45,7 @@ Let's connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox&logoColor=white)](https://victor-baitsumedi-portfolio.netlify.app/)  
 
 ## 📊 GitHub Stats  
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-victorbaitsumedi&show_icons=true&theme=radical)  
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbaitsumedi&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbaitsumedi&layout=compact&theme=radical)  
 
 
