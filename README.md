@@ -41,7 +41,7 @@ Stay tuned , I will be pinning more projects soon.
 
 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](victorbaitsumedi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-baitsumedi)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox&logoColor=white)](https://victor-baitsumedi-portfolio.netlify.app/)  
 
 ## 📊 GitHub Stats  
